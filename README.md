@@ -1,6 +1,8 @@
 # [The base for IRIS Knowledge Platform](forum.team-iris.me)
+This is our submission for the Coding Culture Hackathon.<br>
 We built the forum using discourse. The instructions to install are here. 
 
+### [Round 1 submission file](https://github.com/Nikhil-Kasukurthi/discourse/raw/master/forum.pdf)
 
 <a href="http://www.discourse.org/">![Logo](images/discourse.png)</a>
 
